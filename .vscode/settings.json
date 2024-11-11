@@ -1,0 +1,7 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line",
+    "editor.cursorSmoothCaretAnimation": "off",
+    "editor.multiCursorLimit": 10000,
+    "editor.multiCursorPaste": "spread"
+}
